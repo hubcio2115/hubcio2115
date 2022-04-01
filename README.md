@@ -17,8 +17,7 @@ _"Not much but it's honest work"_
 
 ### 🌱 Learning
 
-- ⚛️ React
-- 👨🏻‍💻 TS
+- ✌️ Vue
 - 🗿 Node.js
 
 ### 📫 How to reach me:
