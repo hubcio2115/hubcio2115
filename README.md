@@ -6,7 +6,6 @@ I really enjoy learning new things.
 ### 🛠 Skills and Experiences
 
 - ⚛️ React
-- ✌️ Vue
 - 💻 HTML, CSS, TS
 
 ### 🔭 My work
@@ -17,6 +16,7 @@ _"Not much but it's honest work"_
 
 ### 🌱 Learning
 
+- 📱 React Native
 - ✌️ Vue
 - 🗿 Node.js
 
