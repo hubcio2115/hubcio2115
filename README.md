@@ -1,6 +1,6 @@
 # Hubert Kowalski
 
-Hi there 👋 I'm Hubert from Poland, and I aspire to be a full-stack developer. I'm currently in university on a computer science course.
+Hi there 👋 I'm Hubert from Poland, and I aspire to be a frontend developer. I'm currently in university on a computer science course.
 I really enjoy learning new things.
 
 ### 🛠 Skills and Experiences
@@ -26,4 +26,4 @@ _"Not much but it's honest work"_
 
 ### ⚡ Fun fact:
 
-Baby 🦥 sloths will hold tight to their mother, like their life depends on it, pretty much untill they are adults because if they don't their mother won't come down to resque them.
+Sex call of a sperm whale 🐋 is so strong that it can kill a person. Divers that were swimming near those said that water became noticebaly warmer.
