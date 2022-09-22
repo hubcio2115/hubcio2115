@@ -17,7 +17,7 @@ _"Not much but it's honest work"_
 
 ### 🌱 Learning
 
-- ⏭️ Next.js
+- ⚛️ Redux
 
 ### 📫 How to reach me:
 
