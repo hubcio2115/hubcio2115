@@ -14,6 +14,7 @@ _"Not much but it's honest work"_
 
 - 🍿 [movies-app](https://github.com/hubcio2115/movies-app-frontend)
 - 🐍 [snake](https://github.com/hubcio2115/snake)
+- 📈 [market-dashboard](https://github.com/hubcio2115/snake/market-dashboard)
 
 ### 🌱 Learning
 
@@ -26,4 +27,4 @@ _"Not much but it's honest work"_
 
 ### ⚡ Fun fact:
 
-Sex call of a sperm whale 🐋 is so strong that it can kill a person. Divers that were swimming near those said that water became noticebaly warmer.
+Gorrilas 🦍 could benchpress your car. Contrary to their strength they are not aggressive. Most of their diet consists of fruits and bugs. When facing a gorilla just remain calm, do not stand straight, don't be loud, try to be least thretening and walk away slowly.
