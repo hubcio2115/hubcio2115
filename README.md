@@ -14,7 +14,7 @@ _"Not much but it's honest work"_
 
 - 🍿 [movies-app](https://github.com/hubcio2115/movies-app-frontend)
 - 🐍 [snake](https://github.com/hubcio2115/snake)
-- 📈 [market-dashboard](https://github.com/hubcio2115/snake/market-dashboard)
+- 📈 [market-dashboard](https://github.com/hubcio2115/market-dashboard)
 
 ### 🌱 Learning
 
