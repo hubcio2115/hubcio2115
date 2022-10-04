@@ -27,4 +27,4 @@ _"Not much but it's honest work"_
 
 ### ⚡ Fun fact:
 
-Gorrilas 🦍 could benchpress your car. Contrary to their strength they are not aggressive. Most of their diet consists of fruits and bugs. When facing a gorilla just remain calm, do not stand straight, don't be loud, try to be least thretening and walk away slowly.
+Kayotes 🐕 are universally hated in nature. By every animal that lives in their habitat. Wolfs, crows, bears, racoones, eagles and even donkeys. Donkeys even can be seen mangling kayotes body in their mouth they don't like them that much. They (kayotes) constantly get jumped by all of them (other animals). They deserve it. They are like cockroaches and racoones combined witha a dog body. They cannot be eradicated and are harmful to nature. 
