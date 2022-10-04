@@ -18,7 +18,9 @@ _"Not much but it's honest work"_
 
 ### 🌱 Learning
 
-- ⚛️ Redux
+- ⚛️ React Query
+- ⚛️ Preact
+- 💨 Tailwind
 
 ### 📫 How to reach me:
 
