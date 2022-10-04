@@ -1,6 +1,6 @@
 # Hubert Kowalski
 
-Hi there 👋 I'm Hubert from Poland, and I aspire to be a frontend developer. I'm currently in university on a computer science course.
+Hi there 👋 I'm Hubert from Poland, and I aspire to be a frontend developer. I'm currently a second year student at university on a CS course.
 I really enjoy learning new things.
 
 ### 🛠 Skills and Experiences
