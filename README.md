@@ -6,6 +6,7 @@ I really enjoy learning new things.
 ### 🛠 Skills and Experiences
 
 - ⚛️ React
+- ⚛ Preact
 - 💻 HTML, CSS, TS
 
 ### 🔭 My work
@@ -18,8 +19,8 @@ _"Not much but it's honest work"_
 ### 🌱 Learning
 
 - ⚛️ React Query
-- ⚛️ Preact
 - 💨 Tailwind
+- 👉 Next.js
 
 ### 📫 How to reach me:
 
