@@ -24,7 +24,6 @@ _"Not much but it's honest work"_
 
 ### 📫 How to reach me:
 
-- email: kowalski.hubercik1@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/hubert-kowalski-447aaa213/)
 
 ### ⚡ Fun fact:
