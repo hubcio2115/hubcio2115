@@ -28,4 +28,4 @@ _"Not much but it's honest work"_
 
 ### ⚡ Fun fact:
 
-Kayotes 🐕 are universally hated in nature. By every animal that lives in their habitat. Wolfs, crows, bears, racoones, eagles and even donkeys. Donkeys even can be seen mangling kayotes body in their mouth they don't like them that much. They (kayotes) constantly get jumped by all of them (other animals). They deserve it. They are like cockroaches and racoones combined witha a dog body. They cannot be eradicated and are harmful to nature. 
+Even tho 🦛 weight in around 5 tons, aproximately 2% of their weight on average is fat. They are walking 5 tons of muscle, remember that next time you call someone a hippo.
