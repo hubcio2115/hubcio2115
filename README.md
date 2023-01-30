@@ -7,6 +7,9 @@ I really enjoy learning new things.
 
 - ⚛️ React
 - ⚛ Preact
+- ⚛️ React Query
+- 💨 Tailwind
+- 👉 Next.js
 - 💻 HTML, CSS, TS
 
 ### 🔭 My work
@@ -18,9 +21,7 @@ _"Not much but it's honest work"_
 
 ### 🌱 Learning
 
-- ⚛️ React Query
-- 💨 Tailwind
-- 👉 Next.js
+- Rust 🦀
 
 ### 📫 How to reach me:
 
