@@ -14,7 +14,7 @@ I really enjoy learning new things.
 
 ### 🔭 My work
 
-_"Not much but it's honest work"
+_"Not much but it's honest work"_
 
 - 🍿 [movies-app](https://github.com/hubcio2115/movies-app-frontend)
 - 🐍 [snake](https://github.com/hubcio2115/snake)
