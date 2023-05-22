@@ -9,6 +9,7 @@ I really enjoy learning new things.
 - ⚛️ React Query
 - 💨 TailwindCSS
 - 💻 HTML, CSS, SCSS, TS
+- 🐙 Git
 - 🐳 Docker
 - 🐧 Linux
 - ☕️ Java
@@ -24,7 +25,6 @@ I really enjoy learning new things.
 ### 🌱 Learning
 
 - Rust 🦀
-
 
 ### 📫 How to reach me:
 
