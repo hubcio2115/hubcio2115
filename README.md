@@ -6,7 +6,6 @@ I really enjoy learning new things.
 ### 🛠 Skills and Experiences
 
 - ⚛ React / NextJS
-- ⚛️ React Query
 - 💨 TailwindCSS
 - 💻 HTML, CSS, SCSS, TS
 - 🐙 Git
