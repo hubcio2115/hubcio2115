@@ -20,6 +20,7 @@ _"Not much but it's honest work"_
 
 - 🫐 [pokemon-smash-pass](https://pokemon-smash-pass.vercel.app/)
 - 🐍 [snake](https://snake-eosin-one.vercel.app/)
+- 💽 [personal-dbms-nextjs](https://github.com/hubcio2115/personal-dbms-nextjs)
 - 🍿 [movies-app](https://github.com/hubcio2115/movies-app-frontend)
 
 ### 🌱 Learning
