@@ -16,10 +16,11 @@ I really enjoy learning new things.
 
 ### 🔭 My work
 
-- _"Not much but it's honest work"_
+_"Not much but it's honest work"_
 
-- 🍿 [movies-app](https://github.com/hubcio2115/movies-app-frontend)
+- 🫐 [pokemon-smash-pass](https://pokemon-smash-pass.vercel.app/)
 - 🐍 [snake](https://github.com/hubcio2115/snake)
+- 🍿 [movies-app](https://github.com/hubcio2115/movies-app-frontend)
 
 ### 🌱 Learning
 
