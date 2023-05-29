@@ -19,7 +19,7 @@ I really enjoy learning new things.
 _"Not much but it's honest work"_
 
 - 🫐 [pokemon-smash-pass](https://pokemon-smash-pass.vercel.app/)
-- 🐍 [snake](https://github.com/hubcio2115/snake)
+- 🐍 [snake](https://snake-eosin-one.vercel.app/)
 - 🍿 [movies-app](https://github.com/hubcio2115/movies-app-frontend)
 
 ### 🌱 Learning
