@@ -1,7 +1,7 @@
 # Hubert Kowalski
 
 Hi there 👋 I'm Hubert from Poland, and I aspire to be a frontend developer. I'm currently a second year student at university on a CS course.
-I really enjoy learning new things.
+I really enjoy learning new things. If you want to see my _pretty_ portfolio go [here](https://personal-portfolio-one-tan.vercel.app/)
 
 ### 🛠 Skills and Experiences
 
