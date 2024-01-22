@@ -12,8 +12,6 @@ If you want to see my _pretty_ portfolio go [here](https://personal-portfolio-on
 - 💻 HTML, CSS, SCSS, TS
 - 🐙 Git
 - 🐳 Docker
-- 🐧 Linux
-- ☕️ Java
 - 🦫 Go
 
 ### 🔭 My work
