@@ -25,7 +25,7 @@ _"Not much but it's honest work"_
 
 ### 🌱 Learning
 
-Nothing new atm...
+- 🦀 Rust
 
 ### 📫 How to reach me:
 
