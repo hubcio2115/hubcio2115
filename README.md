@@ -7,12 +7,12 @@ If you want to see my _pretty_ portfolio go [here](https://personal-portfolio-on
 
 ### 🛠 Skills and Experiences
 
+- 💻 HTML, CSS, SCSS, JS/TS
+- 🦫 Go
+- 🐳 Docker
 - ⚛ React / NextJS
 - 💨 TailwindCSS
-- 💻 HTML, CSS, SCSS, TS
 - 🐙 Git
-- 🐳 Docker
-- 🦫 Go
 
 ### 🔭 My work
 
