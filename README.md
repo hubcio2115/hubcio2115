@@ -18,10 +18,10 @@ If you want to see my _pretty_ portfolio go [here](https://personal-portfolio-on
 
 _"Not much but it's honest work"_
 
+- 🛡️ [htmx-ls](https://github.com/hubcio2115/htmx-ls)
 - 🫐 [pokemon-smash-pass](https://pokemon-smash-pass.vercel.app/)
 - 🐍 [snake](https://snake-eosin-one.vercel.app/)
-- 💽 [personal-dbms-nextjs](https://github.com/hubcio2115/personal-dbms-nextjs)
-- 🍿 [movies-app](https://github.com/hubcio2115/movies-app-frontend)
+- 🎞️ [editthing](https://github.com/hubcio2115/editthing)
 
 ### 🌱 Learning
 
