@@ -25,7 +25,7 @@ _"Not much but it's honest work"_
 
 ### 🌱 Learning
 
-- 🦀 Rust
+- 🧪 Elixir
 
 ### 📫 How to reach me:
 
