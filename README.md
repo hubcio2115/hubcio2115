@@ -2,7 +2,7 @@
 
 I like computers.
 
-If you want to see my _pretty_ portfolio go [here](https://personal-portfolio-one-tan.vercel.app/).
+You might want to see [my site](https://personal-portfolio-one-tan.vercel.app/).
 
 ### 🔭 My work
 
