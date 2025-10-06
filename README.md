@@ -2,7 +2,7 @@
 
 I like computers.
 
-You might want to see [my site](https://personal-portfolio-one-tan.vercel.app/).
+You might want to see [my site](https://hubibi.dev).
 
 ### 🔭 My work
 
