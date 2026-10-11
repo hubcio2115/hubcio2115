@@ -10,7 +10,7 @@ _"Not much but it's honest work"_
 
 - 🛡️ [htmx-ls](https://github.com/hubcio2115/htmx-ls)
 - 🫐 [pokemon-smash-pass](https://pokemon-smash-pass.vercel.app/)
-- 🐍 [snake](https://snake-eosin-one.vercel.app/)
+- 🐍 [snake](https://github.com/hubcio2115/snake)
 - 🎞️ [editthing](https://github.com/hubcio2115/editthing)
 
 ### 📫 How to reach me:
